@@ -46,7 +46,7 @@
 #include <Adafruit_ADXL375.h>
 #include <Teensy-ICM-20948.h>
 #include <Adafruit_LSM6DSO32.h>
-#include <UbloxGPS.h>
+#include <UbloxGps.h>
 #include <UbxGpsConfig.h>
 
 // GPS pins, not that these are RX and TX on the microcontroller, NOT the GTU7 (i.e. GTU_RX_PIN goes to the TX pin on the GTU)

@@ -17,5 +17,7 @@
         "streambuf": "cpp",
         "memory_resource": "cpp",
         "ostream": "cpp"
-    }
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }
